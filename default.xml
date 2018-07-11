@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote  name="TarasKoval"
-         fetch="https://github.com/TarasKoval" /> 
+<remote  name="remote1"
+         fetch="https://github.com/TarasKoval/" /> 
 
-<project path="temp/frameworks/base" name="AeonROM/android_frameworks_base" remote="red-devil" revision="master" />
+<project path="temp/" name="VigenereCipher" remote="remote1" revision="master" />
 
 </manifest>
