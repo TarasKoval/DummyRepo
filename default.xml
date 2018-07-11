@@ -6,7 +6,7 @@
 
 <project path="VigenereCipher/" name="VigenereCipher" remote="github" revision="master" />
 <project path="AffineBigramCipher/" name="AffineBigramCipher" remote="github" revision="master" />
-<project path="GameOfLife/" name="GameOfLife" remote="github" revision="master" />
+<project path="tempProject/" name="tempProject" remote="github" revision="dev" />
 
 
 </manifest>
