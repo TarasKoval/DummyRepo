@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote  name="remote1"
+<remote  name="github"
          fetch="https://github.com/TarasKoval/" /> 
 
-<project path="temp/" name="VigenereCipher" remote="remote1" revision="master" />
+<project path="VigenereCipher/" name="VigenereCipher" remote="github" revision="master" />
+<project path="AffineBigramCipher/" name="AffineBigramCipher" remote="github" revision="master" />
+<project path="GameOfLife/" name="GameOfLife" remote="github" revision="master" />
+
 
 </manifest>
