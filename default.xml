@@ -5,7 +5,7 @@
          fetch="https://github.com/TarasKoval/" /> 
 
 <project path="VigenereCipher/" name="VigenereCipher" remote="github" revision="30b668c6c9e95070c3bc2b79a8c3ec1215f5848a" />
-<project path="AffineBigramCipher/" name="AffineBigramCipher" remote="github" revision="v1.0" />
+<project path="AffineBigramCipher/" name="AffineBigramCipher" remote="github" revision="master" sync-tags="v1.0"/>
 <project path="tempProject/" name="tempProject" remote="github" revision="dev" />
 
 
